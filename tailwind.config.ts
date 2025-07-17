@@ -61,6 +61,14 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				medieval: {
+					brown: '#8B4513',
+					amber: '#DAA520',
+					steel: '#2F4F4F',
+					parchment: '#F5F5DC',
+					darkstone: '#5F0DCD',
+					gold: '#B8860B',
 				}
 			},
 			borderRadius: {
